@@ -1,16 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins);
 
-
 .display-flex {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .logo {
-    color: #6070FF;
-
+  color: #6070ff;
 }
 
 body {
-    background-image: url("images\backimage.png");
+  background-image: url("images\backimage.png");
 }
